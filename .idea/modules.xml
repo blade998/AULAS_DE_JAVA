@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aulas de Java.iml" filepath="$PROJECT_DIR$/.idea/Aulas de Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicionais/Condicionais.iml" filepath="$PROJECT_DIR$/Condicionais/Condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento em Java/Encapsulamento em Java.iml" filepath="$PROJECT_DIR$/Encapsulamento em Java/Encapsulamento em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World/Hello World.iml" filepath="$PROJECT_DIR$/Hello World/Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lacos_numericos/Lacos_numericos.iml" filepath="$PROJECT_DIR$/Lacos_numericos/Lacos_numericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/Variaveis/Variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boolean/boolean.iml" filepath="$PROJECT_DIR$/boolean/boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mODELAGEM_de_objetosemjava/mODELAGEM_de_objetosemjava.iml" filepath="$PROJECT_DIR$/mODELAGEM_de_objetosemjava/mODELAGEM_de_objetosemjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manipulacao_de_strings_e-datas/manipulacao_de_strings_e-datas.iml" filepath="$PROJECT_DIR$/manipulacao_de_strings_e-datas/manipulacao_de_strings_e-datas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
